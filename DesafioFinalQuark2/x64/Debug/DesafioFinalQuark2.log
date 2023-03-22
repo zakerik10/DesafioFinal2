@@ -1,0 +1,6 @@
+﻿  Library.cpp
+  Loan.cpp
+  Presenter.cpp
+C:\Users\zaker\OneDrive\Escritorio\DesafioFinalQuark2\DesafioFinalQuark2\Presenter.cpp(149,68): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  DesafioFinalQuark2.vcxproj -> C:\Users\zaker\OneDrive\Escritorio\DesafioFinalQuark2\x64\Debug\DesafioFinalQuark2.exe
